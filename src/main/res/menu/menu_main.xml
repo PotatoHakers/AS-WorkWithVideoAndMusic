@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.workwithaudioandvideo.MainActivity">
+    <item
+        android:id="@+id/about_author"
+        android:orderInCategory="100"
+        android:title="@string/about_author"
+        app:showAsAction="never" />
+</menu>
